@@ -69,3 +69,4 @@
    69  git status
    70  history
    71  history > Aulas_1_e_2.txt
+Isto não é um código
